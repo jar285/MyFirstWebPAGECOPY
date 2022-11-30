@@ -4,26 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc7f305e-c015-427c-92af-3df5ed87fee4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Development.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/History.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Images/Breath Of The Wild Image.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Ranks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/ReviewsAndRating.html" beforeDir="false" />
+    <list default="true" id="dc7f305e-c015-427c-92af-3df5ed87fee4" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/HistoryCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/HistoryCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/TestCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/TestCss.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/indexCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/indexCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/AwardsAndNominations.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/AwardsAndNominations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Development.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Development.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Guides.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Guides.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/History.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/History.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/PersonalOP.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/PersonalOP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Ranks.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Ranks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/ReviewsAndRating.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/ReviewsAndRating.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Voting.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Voting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyFirstWebPage" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -93,8 +78,23 @@
       <workItem from="1668802851193" duration="6400000" />
       <workItem from="1669235422053" duration="46000" />
       <workItem from="1669668217739" duration="10759000" />
-      <workItem from="1669755757011" duration="18204000" />
+      <workItem from="1669755757011" duration="20148000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1669784727272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669784727272</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1669784735864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669784735864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,5 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
