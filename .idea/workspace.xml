@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc7f305e-c015-427c-92af-3df5ed87fee4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Development.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/History.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Images/Breath Of The Wild Image.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Ranks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/ReviewsAndRating.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/HistoryCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/HistoryCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/TestCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/TestCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/indexCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/indexCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/AwardsAndNominations.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/AwardsAndNominations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Development.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Development.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Guides.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Guides.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/History.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/History.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/PersonalOP.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/PersonalOP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Ranks.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Ranks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/ReviewsAndRating.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/ReviewsAndRating.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Voting.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Voting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyFirstWebPage" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HQ2FDcggsO6tJn7bfU66qdU9EQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/franklind.rosarioabreu/MyFirstWebPage/MyFirstWebPage",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MyFirstWebPage" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc7f305e-c015-427c-92af-3df5ed87fee4" name="Changes" comment="" />
+      <created>1668202880719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668202880719</updated>
+      <workItem from="1668202882207" duration="2826000" />
+      <workItem from="1668800476516" duration="862000" />
+      <workItem from="1668802454595" duration="25000" />
+      <workItem from="1668802483009" duration="51000" />
+      <workItem from="1668802558350" duration="51000" />
+      <workItem from="1668802657315" duration="7000" />
+      <workItem from="1668802734994" duration="71000" />
+      <workItem from="1668802851193" duration="6400000" />
+      <workItem from="1669235422053" duration="46000" />
+      <workItem from="1669668217739" duration="10759000" />
+      <workItem from="1669755757011" duration="18204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
