@@ -4,22 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc7f305e-c015-427c-92af-3df5ed87fee4" name="Changes" comment="Change in History and CSS">
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Sekiro_Image_2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Sekiro_Image_3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/BreathCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/GhostCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/SekiroCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/BreathHistory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/EldenHistory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/GhostHistory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/SekiroHistory.html" afterDir="false" />
+    <list default="true" id="dc7f305e-c015-427c-92af-3df5ed87fee4" name="Changes" comment="Added new versions and changed navigation bar">
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Elden_Ring_Image3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Elden_Ring_Image4k.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Elden_Ring_Image_5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Ghost_Image_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Ghost_of_tsushima_Image_4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Sekiro_Image_4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Sekiro_Image_5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/breath_of_The_Wild_Link3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/AwardCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/EldenCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/ReviewCSS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/HistoryCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/HistoryCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/TestCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/TestCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/BreathCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/BreathCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/SekiroCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/SekiroCSS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/indexCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/indexCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/History.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/History.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/AwardsAndNominations.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/AwardsAndNominations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/EldenHistory.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/EldenHistory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/ReviewsAndRating.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/ReviewsAndRating.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstWebPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +96,9 @@
       <workItem from="1669668217739" duration="10759000" />
       <workItem from="1669755757011" duration="21096000" />
       <workItem from="1669787697634" duration="2447000" />
-      <workItem from="1669948815293" duration="13726000" />
+      <workItem from="1669948815293" duration="13913000" />
+      <workItem from="1669992017433" duration="14218000" />
+      <workItem from="1670018034311" duration="12943000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1669784727272</created>
@@ -116,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669786880702</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added new versions and changed navigation bar">
+      <created>1669965987237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669965987237</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +149,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Change in History and CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change in History and CSS" />
+    <MESSAGE value="Added new versions and changed navigation bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new versions and changed navigation bar" />
   </component>
 </project>
