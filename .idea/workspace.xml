@@ -4,29 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc7f305e-c015-427c-92af-3df5ed87fee4" name="Changes" comment="Added New Changes and finished review styles and awards and nominations">
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Elden_RingMap1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Ghost_Map1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Ghost_Map2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Ghost_Map3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Sekiro_Map.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Zelda_Breath_of_the_Wild_all_shrines_map_Champions_Ballad_DLC.0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Zelda_botw_shrine_map.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/GuidesCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/BreathDevelopment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/EldenDevelopment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/GhostDevelopment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/SekiroDevelopment.html" afterDir="false" />
+    <list default="true" id="dc7f305e-c015-427c-92af-3df5ed87fee4" name="Changes" comment="Added New Changes">
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Elden_Ring_Gameplay.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Ghost_Game1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/LinkHyrule.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Sekiro_Game.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/JavaScript/ContactScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/JavaScript/VoteScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/ContactInformation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/PersonalOPCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/VotingCSS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/ReviewCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/ReviewCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/GuidesCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/GuidesCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/TestCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/TestCss.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/indexCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/indexCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/AwardsAndNominations.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/AwardsAndNominations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/BreathHistory.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/BreathHistory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/EldenHistory.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/EldenHistory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/GhostHistory.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/GhostHistory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Guides.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Guides.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/PersonalOP.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/PersonalOP.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/ReviewsAndRating.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/ReviewsAndRating.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/SekiroHistory.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/SekiroHistory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Voting.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Voting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstWebPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +33,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -102,7 +99,7 @@
       <workItem from="1669787697634" duration="2447000" />
       <workItem from="1669948815293" duration="13913000" />
       <workItem from="1669992017433" duration="14218000" />
-      <workItem from="1670018034311" duration="28263000" />
+      <workItem from="1670018034311" duration="59619000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1669784727272</created>
@@ -139,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670042200918</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added New Changes">
+      <created>1670209150852</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670209150852</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +166,7 @@
     <MESSAGE value="Change in History and CSS" />
     <MESSAGE value="Added new versions and changed navigation bar" />
     <MESSAGE value="Added New Changes and finished review styles and awards and nominations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added New Changes and finished review styles and awards and nominations" />
+    <MESSAGE value="Added New Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added New Changes" />
   </component>
 </project>
