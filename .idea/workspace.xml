@@ -5,44 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc7f305e-c015-427c-92af-3df5ed87fee4" name="Changes" comment="Finished product, By Jesus Adonis Rosario Vargas">
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Images/Breath_Development1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/BreathDevelopmentCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/EldenDevelopmentCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/GhostDevelopmentCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/SekiroDevelopmentCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Videos/How Elden Ring Was Made and Why The Director Feels Apologetic.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Videos/Sekiro_ Shadows Die Twice - Did You Know Gaming_ Feat. Greg.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Videos/The Making of The Legend of Zelda_ Breath of the Wild Video – Open-Air Concept.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Videos/The Making of The Legend of Zelda_ Breath of the Wild Video – Story and Characters.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Videos/The Making of The Legend of Zelda_ Breath of the Wild Video – The Beginning.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstWebPage/Videos/The Origin, Inspiration, and Development of Ghost of Tsushima.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/AwardCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/AwardCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/BreathCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/BreathCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/ContactInformation.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/ContactInformation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/EldenCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/EldenCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/GhostCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/GhostCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/GuidesCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/GuidesCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/PersonalOPCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/PersonalOPCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/ReviewCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/ReviewCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/SekiroCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/SekiroCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/VotingCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/VotingCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/Styles/indexCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/Styles/indexCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/AwardsAndNominations.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/AwardsAndNominations.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/BreathDevelopment.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/BreathDevelopment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/BreathHistory.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/BreathHistory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/EldenDevelopment.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/EldenDevelopment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/EldenHistory.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/EldenHistory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/GhostDevelopment.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/GhostDevelopment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/GhostHistory.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/GhostHistory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Guides.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Guides.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/PersonalOP.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/PersonalOP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/ReviewsAndRating.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/ReviewsAndRating.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/SekiroDevelopment.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/SekiroDevelopment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/SekiroHistory.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/SekiroHistory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Voting.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/SubPages/Voting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstWebPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstWebPage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +84,7 @@
       <workItem from="1669787697634" duration="2447000" />
       <workItem from="1669948815293" duration="13913000" />
       <workItem from="1669992017433" duration="14218000" />
-      <workItem from="1670018034311" duration="73205000" />
+      <workItem from="1670018034311" duration="75051000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1669784727272</created>
@@ -169,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670305729668</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finished product, By Jesus Adonis Rosario Vargas">
+      <created>1670385040354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670385040354</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
